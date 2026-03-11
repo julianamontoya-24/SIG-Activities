@@ -8,25 +8,25 @@ El objetivo es mostrar que detrás de cada imagen hay una estructura de datos qu
 
 El notebook permite procesar una imagen paso a paso:
 
-Conectar Google Drive para acceder a los archivos.
+- Conectar Google Drive para acceder a los archivos.
 
-Cargar una imagen usando librerías de Python.
+- Cargar una imagen usando librerías de Python.
 
-Convertir la imagen en una matriz de píxeles RGB.
+- Convertir la imagen en una matriz de píxeles RGB.
 
-Procesar y organizar los datos de los píxeles.
+- Procesar y organizar los datos de los píxeles.
 
-Exportar esos valores a Excel, coloreando cada celda según su valor RGB.
+- Exportar esos valores a Excel, coloreando cada celda según su valor RGB.
 
 Objetivos 🎯
 
-Entender cómo funcionan las imágenes digitales a nivel de datos.
+- Entender cómo funcionan las imágenes digitales a nivel de datos.
 
-Aprender a trabajar con matrices RGB en Python.
+- Aprender a trabajar con matrices RGB en Python.
 
-Visualizar la relación entre píxeles y colores.
+- Visualizar la relación entre píxeles y colores.
 
-Conectar programación con herramientas como Excel para analizar datos.
+- Conectar programación con herramientas como Excel para analizar datos.
 
 Resultado 📊
 
