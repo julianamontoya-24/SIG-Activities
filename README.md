@@ -1,4 +1,4 @@
-##Pixel Programming 🖼️➡️📊
+##Pixel Programming 🖼️➡️📊##
 
 Este proyecto explora cómo una imagen digital puede representarse como datos. Utilizando Python en Google Colab, se toma una imagen y se convierte en una matriz de valores RGB (Red, Green, Blue). Luego, estos datos se exportan a Excel, donde cada celda representa un píxel de la imagen con su color correspondiente.
 
